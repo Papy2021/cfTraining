@@ -1,0 +1,1 @@
+ <cfoutput>#dateFormat(now(),'dd-mmmm-yyyy')#</cfoutput>
