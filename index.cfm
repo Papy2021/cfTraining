@@ -1,5 +1,7 @@
 <cfinclude template="includes/header.cfm">
-<cfset >
+
+  
+</cfoutput>
   <!---Last line to be included in header.cfm--->
   <div id="pageBody">
     <div id="homeContent">
